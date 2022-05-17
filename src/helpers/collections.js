@@ -10,8 +10,8 @@ export const networkCollections = {
     {
       image:
         "https://ipfs.moralis.io:2053/ipfs/QmfLbpeVHxReWKNLaXTPcWiafi49eoAL4gRwMGuXtx2Eqe/images/14.png",
-      name: "Pixel Show",
-      addrs: "0xCA34404dD8Bd6537BE76F3A51B379F8949bD7973",
+      name: "valb",
+      addrs: "0x13b23da1A5Eed53F1022113ebe7AdaAe47cb0011",
     },
   ],
 

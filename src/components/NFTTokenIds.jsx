@@ -162,8 +162,8 @@ function NFTTokenIds({ inputValue, setInputValue }) {
       (e) =>
         e.nftContract === nft?.token_address &&
         e.tokenId === nft?.token_id &&
-        e.sold === false &&
-        e.confirmed === true
+        e.sold === false //&&
+        //e.confirmed === true
     );
     return result;
   };
